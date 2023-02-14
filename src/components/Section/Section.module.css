@@ -1,0 +1,12 @@
+.Section__container {
+    width: 400px;
+    margin: 30px 50px;
+    padding: 16px;
+
+}
+
+.Section__title {
+    text-align: center;
+    font-size: 30px;
+    color: #3c3eb7;
+}

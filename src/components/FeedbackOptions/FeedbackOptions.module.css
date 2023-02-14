@@ -1,0 +1,21 @@
+.Feedback__container {
+    display: flex;
+    list-style: none;
+}
+
+.Feedback__button {
+    padding: 4px;
+    margin: 8px;
+    cursor: pointer;
+    background-color: rgba(183 60 88, 15);
+    color: #3c3eb7;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.Feedback__button:hover,
+.Feedback__button:focus {
+    background-color: #9092d8;
+    color: white;
+    transform: scale(1.2);
+}
